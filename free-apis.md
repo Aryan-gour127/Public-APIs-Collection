@@ -10,5 +10,6 @@ The entries below have a no-cost access option. A free plan may have usage caps,
 | [TheDogAPI](https://thedogapi.com/) | Images | API key | Free hobby/learning plan; quotas and features depend on the plan. |
 | [CoinGecko Demo](https://www.coingecko.com/en/api) | Crypto | Demo API key | $0 Demo plan; published request limits apply. |
 | [ExchangeRate-API Open Access](https://www.exchangerate-api.com/docs/free) | Finance | None | Open endpoint, daily updates, rate-limited; attribution required. |
+| [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily experiences | None | Free JSON endpoint; Dutch/Netherlands by default; usage terms apply. |
 
 Some providers also offer paid tiers. See the relevant category pages for more details.

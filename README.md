@@ -12,6 +12,7 @@ A curated directory of public APIs, organized by category and access model. Befo
 | [TheDogAPI](https://thedogapi.com/) | Images | Key; free hobby/learning plan | [Image APIs](image-apis.md) |
 | [CoinGecko Demo](https://www.coingecko.com/en/api) | Crypto | Demo key; $0 plan | [Finance APIs](finance-apis.md) |
 | [ExchangeRate-API Open Access](https://www.exchangerate-api.com/docs/free) | Finance | No key; attribution required | [Finance APIs](finance-apis.md) |
+| [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily experiences | No key; free JSON endpoint; usage terms apply | [Entertainment APIs](entertainment-apis.md) |
 
 ## Paid and commercial APIs
 
